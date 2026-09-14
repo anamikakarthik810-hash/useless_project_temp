@@ -60,15 +60,7 @@ Open your browser at:
 For Software:
 
 # Screenshots
-![Hero & Matrimonial Radar](https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=1000&q=80)
-*Screenshot 1: The ultra-premium landing page and hero section featuring royal matrimonial candidates, live canine statistics, and the hackathon "Calculate My Ultimate Destiny" trigger.*
-
-![Discover Swipe Radar](https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1000&q=80)
-*Screenshot 2: Interactive Discover Swipe deck with real-time mouse/touch drag physics, dynamic "PAW APPROVE" / "NOPE" stamps, layered card stack, and direct chat shortcuts.*
-
-![Malayalam Cinema Destiny Modal](https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1000&q=80)
-*Screenshot 3: Cinematic dog profile modal with overdramatic Malayalam cinema parody voiceover, Love-At-First-Bark compatibility breakdown, red/green flags, and family council verdict.*
-
+google drive link: https://drive.google.com/drive/folders/1mTBT3-FWtXFLZNxu6brsJJNw30uA5zse?usp=sharing
 # Diagrams
 ```mermaid
 flowchart TD
